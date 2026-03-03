@@ -13,5 +13,4 @@ UEC
 - **Automation**: Google Apps Script, IFTTT
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=atk4szk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atk4szk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

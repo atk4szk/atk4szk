@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+UEC
+love minami🐟
 <!--
 **atk4szk/atk4szk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
